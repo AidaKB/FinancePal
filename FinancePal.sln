@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancePal", "FinancePal.csproj", "{FAD58D6A-7999-4E25-9E90-BF7B8666F342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD58D6A-7999-4E25-9E90-BF7B8666F342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD58D6A-7999-4E25-9E90-BF7B8666F342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD58D6A-7999-4E25-9E90-BF7B8666F342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD58D6A-7999-4E25-9E90-BF7B8666F342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9396F89-E2E1-496C-828F-9C8A11F2C5C7}
+	EndGlobalSection
+EndGlobal
